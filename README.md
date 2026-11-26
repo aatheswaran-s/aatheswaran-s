@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Aatheswaran S 👋
 
-<!--
-**aatheswaran-s/aatheswaran-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student at **SRMIST Ramapuram, Chennai**, focused on **cybersecurity: SOC operations, threat detection and cloud security.**
 
-Here are some ideas to get you started:
+I like understanding how attacks actually work so I can catch them: build the lab, attack it, read the logs, write the detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CompTIA Security+** · **Google Cloud Associate Cloud Engineer** · **TryHackMe Top 1%**
+
+---
+
+### 🔐 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Vantage](https://github.com/aatheswaran-s/Vantage)** | Four-VM home SOC that correlates host and network telemetry and auto-blocks live attacks | Wazuh, Suricata, Sysmon, VirusTotal API, MITRE ATT&CK |
+| **[Argus](https://github.com/aatheswaran-s/Argus)** | Local-first network scanner that turns a flat host list into a ranked, evidence-backed triage queue | Python, FastAPI, SQLite, Scapy, React Flow |
+| **[TrustVox](https://github.com/aatheswaran-s/TrustVox)** | AI-powered feedback platform that flags inauthentic submissions, with Postgres row-level security per role | Next.js, Supabase, PostgreSQL, Grok API |
+
+### 🏅 Certifications
+
+- [CompTIA Security+](https://www.credly.com/badges/eb445c4a-8c12-429f-9531-7f4c5ab79f41/public_url)
+- [Google Cloud Associate Cloud Engineer](https://www.credly.com/badges/debe46f5-c21f-4a76-be52-07bba8e215d7/public_url)
+
+### 🏆 Highlights
+
+- Research paper **"AI-Assisted Survey Data Validation and Analysis Using an Incentivized Participation Model"**, accepted at **ICRETM (IEEE-indexed)**, publishing Feb 2027
+- **Top 1% worldwide on TryHackMe**: 1st place in Gold, Sapphire and Diamond leagues
+- **7th place**, ShellSmash CTF
+- **Most Community-Liked Project**, Defy 2025 Hackathon (Devfolio)
+
+### 🛠️ Technical Skills
+
+- **SIEM & Detection:** Wazuh, Suricata, Sysmon, MITRE ATT&CK mapping, VM-based lab environments
+- **Offensive Security:** Burp Suite, Metasploit, Nmap, manual API & web application testing
+- **Threat Intel & Response:** VirusTotal API, CVE/CVSS analysis, Wireshark
+- **Cloud (GCP · ACE):** Google SecOps (SIEM), Compute Engine, GKE, Cloud Storage, Cloud SQL, AlloyDB, BigQuery, Firestore, Memorystore (Redis), IAM
+- **Development & Tooling:** Python, C++, JavaScript, React.js, Next.js, SQL, Git, Jenkins
+- **AI / ML:** NLP, Gaussian Mixture Models, anomaly detection, feature extraction, LLM / Grok API integration
+
+### 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/aatheswaran/) · [TryHackMe](https://tryhackme.com/p/Aatheswaran.S) · [Email](mailto:aatheswaransanjayan07@gmail.com)
