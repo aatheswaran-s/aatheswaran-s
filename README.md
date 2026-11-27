@@ -39,4 +39,4 @@ I like understanding how attacks actually work so I can catch them: build the la
 
 ### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/aatheswaran/) · [TryHackMe](https://tryhackme.com/p/Aatheswaran.S) · [Email](mailto:aatheswaransanjayan07@gmail.com)
+[Portfolio](https://aatheswaran.vercel.app) · [LinkedIn](https://www.linkedin.com/in/aatheswaran/) · [TryHackMe](https://tryhackme.com/p/Aatheswaran.S) · [Email](mailto:aatheswaransanjayan07@gmail.com)
