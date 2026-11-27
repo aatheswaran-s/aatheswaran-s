@@ -15,6 +15,7 @@ I like understanding how attacks actually work so I can catch them: build the la
 | **[Vantage](https://github.com/aatheswaran-s/Vantage)** | Home SOC on one laptop: Wazuh, Suricata and Sysmon watch a lab I attack from Kali, then I check what each sensor caught and what it missed | Wazuh, Suricata, Sysmon, VirusTotal API, MITRE ATT&CK |
 | **[Argus](https://github.com/aatheswaran-s/Argus)** | Local-first network scanner that turns a flat host list into a ranked, evidence-backed triage queue | Python, FastAPI, SQLite, Scapy, React Flow |
 | **[TrustVox](https://github.com/aatheswaran-s/TrustVox)** | AI-powered feedback platform that flags inauthentic submissions, with Postgres row-level security per role | Next.js, Supabase, PostgreSQL, Grok API |
+| **[Portfolio](https://aatheswaran.vercel.app)** | This site: a terminal-style portfolio with a strict content security policy (A+ on securityheaders.com) and two small server functions. [Source](https://github.com/aatheswaran-s/portfolio) | Astro, TypeScript, Vercel, Resend, Vitest |
 
 ### 🏅 Certifications
 
